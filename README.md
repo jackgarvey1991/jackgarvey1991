@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... aws lambda as looking to work on a alexa project
 - 💞️ I’m looking to collaborate on ...alexa or lamdba
 - 📫 How to reach me ... jack_garvey1991@hotmail.co.uk
-- 😄 Pronouns: ... he / him
+- 😄 Pronouns: ... he
 - ⚡ Fun fact: ...
 
 <!---
